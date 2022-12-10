@@ -21,7 +21,7 @@
 
 
 `define headerSize 1080
-`define imageSize 512*512
+`define imageSize 256*256
 
 module tb(
 

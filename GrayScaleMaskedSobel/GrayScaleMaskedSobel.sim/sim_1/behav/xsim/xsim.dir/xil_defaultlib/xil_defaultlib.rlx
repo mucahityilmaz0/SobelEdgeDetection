@@ -2,10 +2,10 @@
 2020.2
 Oct 14 2022
 05:20:55
-C:/Users/gmuca/Desktop/Donaným/GrayScaleMaskedSobel/GrayScaleMaskedSobel.gen/sources_1/ip/outputBuffer/sim/outputBuffer.v,1669038121,verilog,,C:/Users/gmuca/Desktop/Donaným/GrayScaleMaskedSobel/GrayScaleMaskedSobel.srcs/sources_1/new/conv.v,,outputBuffer,,,,,,,,
-C:/Users/gmuca/Desktop/Donaným/GrayScaleMaskedSobel/GrayScaleMaskedSobel.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,,,,,,,
-C:/Users/gmuca/Desktop/Donaným/GrayScaleMaskedSobel/GrayScaleMaskedSobel.srcs/sim_1/new/tb.v,1669038392,verilog,,,,tb,,,,,,,,
-C:/Users/gmuca/Desktop/Donaným/GrayScaleMaskedSobel/GrayScaleMaskedSobel.srcs/sources_1/new/conv.v,1669037904,verilog,,C:/Users/gmuca/Desktop/Donaným/GrayScaleMaskedSobel/GrayScaleMaskedSobel.srcs/sources_1/new/imageControl.v,,conv,,,,,,,,
-C:/Users/gmuca/Desktop/Donaným/GrayScaleMaskedSobel/GrayScaleMaskedSobel.srcs/sources_1/new/imageControl.v,1669037974,verilog,,C:/Users/gmuca/Desktop/Donaným/GrayScaleMaskedSobel/GrayScaleMaskedSobel.srcs/sources_1/new/imageProcessTop.v,,imageControl,,,,,,,,
-C:/Users/gmuca/Desktop/Donaným/GrayScaleMaskedSobel/GrayScaleMaskedSobel.srcs/sources_1/new/imageProcessTop.v,1669038141,verilog,,C:/Users/gmuca/Desktop/Donaným/GrayScaleMaskedSobel/GrayScaleMaskedSobel.srcs/sources_1/new/lineBuffer.v,,imageProcessTop,,,,,,,,
-C:/Users/gmuca/Desktop/Donaným/GrayScaleMaskedSobel/GrayScaleMaskedSobel.srcs/sources_1/new/lineBuffer.v,1669037861,verilog,,C:/Users/gmuca/Desktop/Donaným/GrayScaleMaskedSobel/GrayScaleMaskedSobel.srcs/sim_1/new/tb.v,,lineBuffer,,,,,,,,
+C:/Users/gmuca/Desktop/Donaným/SobelEdgeDetection/GrayScaleMaskedSobel/GrayScaleMaskedSobel.gen/sources_1/ip/outputBuffer/sim/outputBuffer.v,1669038121,verilog,,C:/Users/gmuca/Desktop/Donaným/SobelEdgeDetection/GrayScaleMaskedSobel/GrayScaleMaskedSobel.srcs/sources_1/new/conv.v,,outputBuffer,,,,,,,,
+C:/Users/gmuca/Desktop/Donaným/SobelEdgeDetection/GrayScaleMaskedSobel/GrayScaleMaskedSobel.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,,,,,,,
+C:/Users/gmuca/Desktop/Donaným/SobelEdgeDetection/GrayScaleMaskedSobel/GrayScaleMaskedSobel.srcs/sim_1/new/tb.v,1670677154,verilog,,,,tb,,,,,,,,
+C:/Users/gmuca/Desktop/Donaným/SobelEdgeDetection/GrayScaleMaskedSobel/GrayScaleMaskedSobel.srcs/sources_1/new/conv.v,1669037904,verilog,,C:/Users/gmuca/Desktop/Donaným/SobelEdgeDetection/GrayScaleMaskedSobel/GrayScaleMaskedSobel.srcs/sources_1/new/imageControl.v,,conv,,,,,,,,
+C:/Users/gmuca/Desktop/Donaným/SobelEdgeDetection/GrayScaleMaskedSobel/GrayScaleMaskedSobel.srcs/sources_1/new/imageControl.v,1669037974,verilog,,C:/Users/gmuca/Desktop/Donaným/SobelEdgeDetection/GrayScaleMaskedSobel/GrayScaleMaskedSobel.srcs/sources_1/new/imageProcessTop.v,,imageControl,,,,,,,,
+C:/Users/gmuca/Desktop/Donaným/SobelEdgeDetection/GrayScaleMaskedSobel/GrayScaleMaskedSobel.srcs/sources_1/new/imageProcessTop.v,1669038141,verilog,,C:/Users/gmuca/Desktop/Donaným/SobelEdgeDetection/GrayScaleMaskedSobel/GrayScaleMaskedSobel.srcs/sources_1/new/lineBuffer.v,,imageProcessTop,,,,,,,,
+C:/Users/gmuca/Desktop/Donaným/SobelEdgeDetection/GrayScaleMaskedSobel/GrayScaleMaskedSobel.srcs/sources_1/new/lineBuffer.v,1669037861,verilog,,C:/Users/gmuca/Desktop/Donaným/SobelEdgeDetection/GrayScaleMaskedSobel/GrayScaleMaskedSobel.srcs/sim_1/new/tb.v,,lineBuffer,,,,,,,,
